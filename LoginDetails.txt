@@ -1,0 +1,11 @@
+#//////////Application URL //////////
+
+sAppURL= http://www.money.rediff.com/
+
+#//////////Useremail //////////
+
+Useremail = venkatesh1497@rediffmail.com
+
+#////////// userpass //////////
+
+userpass = Password@123
